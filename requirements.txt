@@ -1,0 +1,2 @@
+git+https://github.com/jontyrudman/pyrak811@enter-exit#egg=rak811
+
